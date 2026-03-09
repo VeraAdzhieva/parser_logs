@@ -1,0 +1,56 @@
+{"event": " syslog.log не является файлом или не nginx", "level": "info", "timestamp": "2026-03-06T09:58:50.061253Z"}
+{"event": "Данные файла получены", "level": "info", "timestamp": "2026-03-06T09:58:50.061359Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T09:58:50.061469Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T09:58:50.061622Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T09:58:50.061673Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T09:58:50.061855Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T09:58:50.071775Z"}
+{"event": "Отчет сгенерирован", "level": "info", "timestamp": "2026-03-06T09:58:50.072346Z"}
+{"event": " syslog.log не является файлом или не nginx", "level": "info", "timestamp": "2026-03-06T10:02:02.221208Z"}
+{"event": "Данные файла получены", "level": "info", "timestamp": "2026-03-06T10:02:02.221319Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T10:02:02.221425Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T10:02:02.221573Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T10:02:02.221613Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T10:02:02.221790Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T10:02:02.221823Z"}
+{"event": "Отчет сгенерирован", "level": "info", "timestamp": "2026-03-06T10:02:02.222276Z"}
+{"event": "Данные файла получены", "level": "info", "timestamp": "2026-03-06T10:03:43.223996Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T10:03:43.224166Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T10:03:43.224322Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T10:03:43.224370Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T10:03:43.224532Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T10:03:43.224568Z"}
+{"event": "Отчет сгенерирован", "level": "info", "timestamp": "2026-03-06T10:03:43.224932Z"}
+{"event": "Данные файла получены ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T10:04:36.347653Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T10:04:36.347809Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T10:04:36.347959Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T10:04:36.348013Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T10:04:36.348210Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T10:04:36.348264Z"}
+{"event": "Отчет сгенерирован по файлу ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T10:04:36.348864Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:09:27.682637Z"}
+{"event": "Данные файла получены ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T10:18:34.386142Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T10:18:34.386313Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T10:18:34.386483Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T10:18:34.386528Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T10:18:34.386697Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T10:18:34.386733Z"}
+{"event": "Отчет сгенерирован по файлу ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T10:18:34.387167Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:18:55.477732Z"}
+{"error": "_path_exists: path should be string, bytes, os.PathLike or integer, not NoneType", "exc_info": true, "event": "Unexpected error occurred", "level": "error", "timestamp": "2026-03-06T10:18:55.477834Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:23:02.908293Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:25:45.620782Z"}
+{"error": "_path_exists: path should be string, bytes, os.PathLike or integer, not NoneType", "exc_info": true, "event": "Unexpected error occurred", "level": "error", "timestamp": "2026-03-06T10:25:45.620888Z"}
+{"exc_info": true, "event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:27:14.004404Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:28:28.956029Z"}
+{"error": "_path_exists: path should be string, bytes, os.PathLike or integer, not NoneType", "exc_info": true, "event": "Unexpected error occurred", "level": "error", "timestamp": "2026-03-06T10:28:28.956131Z"}
+{"event": "Не указана директория логов", "level": "error", "timestamp": "2026-03-06T10:31:50.107708Z"}
+{"error": "_path_exists: path should be string, bytes, os.PathLike or integer, not NoneType", "event": "Unexpected error occurred", "level": "error", "timestamp": "2026-03-06T10:31:50.107868Z", "exception": [{"exc_type": "TypeError", "exc_value": "_path_exists: path should be string, bytes, os.PathLike or integer, not NoneType", "exc_notes": [], "syntax_error": null, "is_cause": false, "frames": [{"filename": "c:\\Projects\\logs_nginx\\log_analyzer.py", "lineno": 43, "name": "main", "locals": {"config": "\"{'REPORT_SIZE': 10, 'REPORT_DIR': './reports', 'TEMPLATE_FILENAME': 'nginx-acces\"+49", "syslog_file": "'./syslog/syslog.log'", "e": "\"TypeError('_path_exists: path should be string, bytes, os.PathLike or integer, n\"+13"}}, {"filename": "c:\\Projects\\logs_nginx\\src\\parser_file.py", "lineno": 39, "name": "get_last_logfile", "locals": {"config": "\"{'REPORT_SIZE': 10, 'REPORT_DIR': './reports', 'TEMPLATE_FILENAME': 'nginx-acces\"+49", "log_dir": "None", "template_name": "'nginx-access-ui.log-'"}}], "is_group": false, "exceptions": []}]}
+{"error": "Не указана директория логов", "event": "Unexpected error occurred", "level": "error", "timestamp": "2026-03-06T10:40:12.936134Z", "exception": [{"exc_type": "Exception", "exc_value": "Не указана директория логов", "exc_notes": [], "syntax_error": null, "is_cause": false, "frames": [{"filename": "c:\\Projects\\logs_nginx\\log_analyzer.py", "lineno": 43, "name": "main", "locals": {"config": "\"{'REPORT_SIZE': 10, 'REPORT_DIR': './reports', 'TEMPLATE_FILENAME': 'nginx-acces\"+49", "syslog_file": "'./syslog/syslog.log'", "e": "Exception('Не указана директория логов')"}}, {"filename": "c:\\Projects\\logs_nginx\\src\\parser_file.py", "lineno": 33, "name": "get_last_logfile", "locals": {"config": "\"{'REPORT_SIZE': 10, 'REPORT_DIR': './reports', 'TEMPLATE_FILENAME': 'nginx-acces\"+49"}}], "is_group": false, "exceptions": []}]}
+{"event": "Данные файла получены ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T11:53:48.499176Z"}
+{"event": "Файл открыт ./log\\nginx-access-ui.log-20250512", "level": "debug", "timestamp": "2026-03-06T11:53:53.320440Z"}
+{"event": "Строки распарсены", "level": "info", "timestamp": "2026-03-06T11:53:59.539029Z"}
+{"event": "Общее кол-во строк: 10 , общее время: 3.892", "level": "debug", "timestamp": "2026-03-06T11:54:02.383072Z"}
+{"event": "Статистичка получена", "level": "info", "timestamp": "2026-03-06T11:56:02.051861Z"}
+{"event": "Путь отчета: ./reports\\report-20250512.html", "level": "debug", "timestamp": "2026-03-06T11:56:04.042953Z"}
+{"event": "Отчет сгенерирован по файлу ./log\\nginx-access-ui.log-20250512", "level": "info", "timestamp": "2026-03-06T11:56:06.894246Z"}

@@ -1,0 +1,27 @@
+[project]
+name = "logs-nginx"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Vera Adzhieva",email = "vera.adzhieva3003@mail.ru"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "structlog (>=25.5.0,<26.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)",
+    "pre-commit (>=4.5.1,<5.0.0)",
+    "black (>=26.3.0,<27.0.0)",
+    "isort (>=8.0.1,<9.0.0)",
+    "flake8 (>=7.3.0,<8.0.0)",
+    "mypy (>=1.19.1,<2.0.0)"
+]

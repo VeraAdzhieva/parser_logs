@@ -1,0 +1,11 @@
+# logs
+log/
+
+#Python
+__pycache__/
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Pre-commit
+.pre-commit-cache/
