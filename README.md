@@ -7,10 +7,10 @@
 1. Клонирование репозитория
 ```git clone https://github.com/VeraAdzhieva/parser_logs.git```
 2. Создание виртуального окружения и активация
-python3 -m venv venv
-source venv/bin/activate
+```python3 -m venv venv```
+```source venv/bin/activate```
 3. Установка зависимостей
-poetry install
+```poetry install```
 
 ## Основные зависимости
 Ключевые библиотеки:
@@ -21,11 +21,11 @@ poetry install
 *Полный список зависимостей доступен в `pyproject.toml`.*
 
 ## Запуск тестов
-poetry run pytest -v
+```poetry run pytest -v```
 
 ## Запуск pre-commit
-poetry run pre-commit run --all-files
+```poetry run pre-commit run --all-files```
 
 ## Пример запуска кода
-poetry run python log_analyzer.py
-poetry run python log_analyzer.py --input path/logfile.log (с указанием пути к файлу логов)
+- ```poetry run python log_analyzer.py```
+- ```poetry run python log_analyzer.py --input path/logfile.log``` (с указанием пути к файлу логов)
