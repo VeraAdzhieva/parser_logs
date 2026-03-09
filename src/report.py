@@ -7,7 +7,7 @@ structlog.configure()
 logger = structlog.get_logger()
 
 
-# Парсер данных файла
+# Генерация отчета
 def generate_report(config: dict, data: list[dict], log_date: str) -> None:
     template_path = "./reports/report.html"
     report_name = f"report-{log_date}.html"

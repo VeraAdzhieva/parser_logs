@@ -86,7 +86,7 @@ def open_file(filepath: str) -> IO[str]:
         return open(filepath, "r", encoding="utf-8")
 
 
-# Открывает файл и в сжатом объеме
+# Парсер строк файла логов
 def parse_log_line(line: str) -> dict[str, str | Any] | None:
     line = line.strip()
     if not line:
