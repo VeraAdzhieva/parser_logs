@@ -3,6 +3,7 @@ import sys
 
 import structlog
 
+
 # Настраивает structlog для записи в файл или stdout.
 def setup_logging(syslog_file_path: str | None) -> None:
     processors = [
